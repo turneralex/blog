@@ -1,12 +1,13 @@
-baseurl = "http://turneralex.com/"
+baseurl = "/"
 languageCode = "en-us"
 title = "my blog"
 theme = "hugo-xmin"
 googleAnalytics = ""
 disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug/"

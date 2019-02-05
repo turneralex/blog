@@ -1,4 +1,4 @@
-baseurl = "http://turneralex.com"
+baseurl = "http://turneralex.com/"
 languageCode = "en-us"
 title = "my blog"
 theme = "hugo-xmin"
